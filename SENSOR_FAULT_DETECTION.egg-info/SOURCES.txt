@@ -1,0 +1,8 @@
+setup.py
+SENSOR_FAULT_DETECTION.egg-info/PKG-INFO
+SENSOR_FAULT_DETECTION.egg-info/SOURCES.txt
+SENSOR_FAULT_DETECTION.egg-info/dependency_links.txt
+SENSOR_FAULT_DETECTION.egg-info/requires.txt
+SENSOR_FAULT_DETECTION.egg-info/top_level.txt
+test/__init__.py
+test/t1.py
